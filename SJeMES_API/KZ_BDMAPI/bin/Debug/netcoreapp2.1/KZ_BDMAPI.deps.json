@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "KZ_BDMAPI/1.0.0": {
+        "runtime": {
+          "KZ_BDMAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KZ_BDMAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

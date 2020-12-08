@@ -1,0 +1,53 @@
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\ProductionDashBoard.pdb
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.ProductionDashBoardForm.resources
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.Properties.Resources.resources
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.csproj.GenerateResource.cache
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.pdb
+D:\新建文件夹\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.ProductionDashBoardForm.resources
+D:\新建文件夹\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.Properties.Resources.resources
+D:\新建文件夹\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.csproj.GenerateResource.cache
+D:\新建文件夹\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.exe
+D:\新建文件夹\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.pdb
+D:\新建文件夹\KZ_MES\ProductionDashBoard\bin\Debug\ProductionDashBoard.exe.config
+D:\新建文件夹\KZ_MES\ProductionDashBoard\bin\Debug\ProductionDashBoard.exe
+D:\新建文件夹\KZ_MES\ProductionDashBoard\bin\Debug\ProductionDashBoard.pdb
+D:\新建文件夹\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.csprojAssemblyReference.cache
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\Newtonsoft.Json.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\SJeMES_Control_Library.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\SJeMES_Framework.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\MaterialSkin.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\Newtonsoft.Json.xml
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\SJeMES_Control_Library.pdb
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.csproj.CopyComplete
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\SJeMES_Framework.pdb
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\SJeMES_Framework.dll.config
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.DashBoardForm.resources
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\AutocompleteMenu.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\AutocompleteMenu.pdb
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\AutocompleteMenu.dll.config
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.csprojAssemblyReference.cache
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\ProductionDashBoard.dll.config
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\ProductionDashBoard.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\ProductionDashBoard.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\AutocompleteMenu.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\AutocompleteMenu.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\AutocompleteMenu.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.DashBoardForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.ProductionDashBoardForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\ProductionDashBoard.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\bin\Debug\ProductionDashBoard.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionDashBoard\obj\Debug\ProductionDashBoard.dll

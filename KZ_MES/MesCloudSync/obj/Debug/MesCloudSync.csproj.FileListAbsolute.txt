@@ -1,0 +1,53 @@
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MesCloudSync.pdb
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MaterialSkin.dll
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\Newtonsoft.Json.dll
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\SJeMES_Control_Library.dll
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\SJeMES_Framework.dll
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\Newtonsoft.Json.xml
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\SJeMES_Control_Library.pdb
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.MesCloudSyncForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.Properties.Resources.resources
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csproj.GenerateResource.cache
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csproj.CoreCompileInputs.cache
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csproj.CopyComplete
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.pdb
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MesCloudSync.exe.config
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MesCloudSync.exe
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MesCloudSync.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.MesCloudSyncForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.exe
+F:\Server Project\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.pdb
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csprojAssemblyReference.cache
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MesCloudSync.exe.config
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MesCloudSync.exe
+E:\projects\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.exe
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MesCloudSync.pdb
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MaterialSkin.dll
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\Newtonsoft.Json.dll
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\SJeMES_Control_Library.dll
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\SJeMES_Framework.dll
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\Newtonsoft.Json.xml
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\SJeMES_Control_Library.pdb
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csprojAssemblyReference.cache
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.MesCloudSyncForm.resources
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.Properties.Resources.resources
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csproj.GenerateResource.cache
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csproj.CoreCompileInputs.cache
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.csproj.CopyComplete
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.pdb
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MesCloudSync.dll.config
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\bin\Debug\MesCloudSync.dll
+E:\源码\Mes-Plant\source\KZ_MES\MesCloudSync\obj\Debug\MesCloudSync.dll

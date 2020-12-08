@@ -1,0 +1,11 @@
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\bin\Release\netcoreapp3.0\SJ_DMAPI.deps.json
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\bin\Release\netcoreapp3.0\SJ_DMAPI.dll
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\bin\Release\netcoreapp3.0\SJ_DMAPI.pdb
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\bin\Release\netcoreapp3.0\GDSJFramework_NETCore.dll
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\bin\Release\netcoreapp3.0\GDSJFramework_NETCore.pdb
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\obj\Release\netcoreapp3.0\SJ_DMAPI.csprojAssemblyReference.cache
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\obj\Release\netcoreapp3.0\SJ_DMAPI.AssemblyInfoInputs.cache
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\obj\Release\netcoreapp3.0\SJ_DMAPI.AssemblyInfo.cs
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\obj\Release\netcoreapp3.0\SJ_DMAPI.csproj.CopyComplete
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\obj\Release\netcoreapp3.0\SJ_DMAPI.dll
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_DMAPI\obj\Release\netcoreapp3.0\SJ_DMAPI.pdb

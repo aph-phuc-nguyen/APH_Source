@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/22/2018 16:59:39" ReportInfo.Modified="08/28/2018 11:23:58" ReportInfo.CreatorVersion="2014.4.8.0">
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqHwzMSgwTFaHpjtG3vsOj8Wl+KKaQgR8U9t6gA4uoVje0RN39p2HGOSEjYLR3wZD27uWzcZSB6EDHcE1ha8dmnJCzDWAHff8bvwgQmpEYm1teHuRJEO59Siw3zFglm8yxx9NWOgecDqdGBl5sExotVJxTlLe4s+wFflcZUsaN7MhB4G3e+NzrXfbQjmFHI3Vo">
+      <TableDataSource Name="Table4" DataType="System.Int32" Enabled="true" SelectCommand="select machine_no as '设备编号',date_plan as '计划日期',state as '处理状态',date_fix as '保养日期',&#13;&#10;person_fix as '保养人员',item_fix as '保养内容',state_machine as '机器状态',memo_fix as '处理意见',memo as '备注' from MES030A4">
+        <Column Name="设备编号" DataType="System.String"/>
+        <Column Name="计划日期" DataType="System.String"/>
+        <Column Name="处理状态" DataType="System.String"/>
+        <Column Name="保养日期" DataType="System.String"/>
+        <Column Name="保养人员" DataType="System.String"/>
+        <Column Name="保养内容" DataType="System.String"/>
+        <Column Name="机器状态" DataType="System.String"/>
+        <Column Name="处理意见" DataType="System.String"/>
+        <Column Name="备注" DataType="System.String"/>
+      </TableDataSource>
+      <TableDataSource Name="Table6" DataType="System.Int32" Enabled="true" SelectCommand="select machine_no as '设备编号',machine_name as '设备名称',&#13;&#10; description as '设备说明',brand as '设备品牌',type as '设备型号',work_center as '工作中心',&#13;&#10; owner as '管理人员',work_state as '工作状态',price as '购买价格',date_buy as '购买时间' from MES030M">
+        <Column Name="设备编号" DataType="System.String"/>
+        <Column Name="设备名称" DataType="System.String"/>
+        <Column Name="设备说明" DataType="System.String"/>
+        <Column Name="设备品牌" DataType="System.String"/>
+        <Column Name="设备型号" DataType="System.String"/>
+        <Column Name="工作中心" DataType="System.String"/>
+        <Column Name="管理人员" DataType="System.String"/>
+        <Column Name="工作状态" DataType="System.String"/>
+        <Column Name="购买价格" DataType="System.String"/>
+        <Column Name="购买时间" DataType="System.String"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+    <Parameter Name="TabulatingPerson" DataType="System.String" Description="制表人"/>
+  </Dictionary>
+  <ReportPage Name="Page1">
+    <PageHeaderBand Name="PageHeader1" Width="718.2" Height="283.5">
+      <TextObject Name="Text1" Width="718.2" Height="37.8" Text="设备汇总分析报表-保养计划" HorzAlign="Center" Font="宋体, 20pt, style=Bold"/>
+      <TextObject Name="Text2" Left="548.1" Top="103.95" Width="151.2" Height="18.9" Text="第[Page#]页/共[TotalPages#]页" Font="宋体, 14pt"/>
+      <PictureObject Name="Picture1" Top="37.8" Width="151.2" Height="75.6" ImageLocation="C:\Users\admin\Desktop\商基网络logo透明底.png"/>
+      <TableObject Name="Table1" Top="132.3" Width="717.92" Height="122.85">
+        <TableColumn Name="Column1" Width="103.88"/>
+        <TableColumn Name="Column2" Width="264.53"/>
+        <TableColumn Name="Column3" Width="103.88"/>
+        <TableColumn Name="Column4" Width="245.63"/>
+        <TableRow Name="Row1" Height="24.57">
+          <TableCell Name="Cell1" Border.Lines="All" Text="设备编号" Padding="1, 3, 1, 0" HorzAlign="Right" Font="宋体, 14pt"/>
+          <TableCell Name="Cell2" Border.Lines="All" Text="[Table6.设备编号]" Padding="1, 3, 1, 0" Font="宋体, 14pt"/>
+          <TableCell Name="Cell3" Border.Lines="All" Text="设备名称" Padding="1, 3, 1, 0" HorzAlign="Right" Font="宋体, 14pt"/>
+          <TableCell Name="Cell4" Border.Lines="All" Text="[Table6.设备名称]" Padding="1, 3, 1, 0" Font="宋体, 14pt"/>
+        </TableRow>
+        <TableRow Name="Row2" Height="24.57">
+          <TableCell Name="Cell6" Border.Lines="All" Text="设备说明" Padding="1, 3, 1, 0" HorzAlign="Right" Font="宋体, 14pt"/>
+          <TableCell Name="Cell7" Border.Lines="All" Text="[Table6.设备说明]" Padding="1, 3, 1, 0" Font="宋体, 14pt"/>
+          <TableCell Name="Cell8" Border.Lines="All" Text="设备品牌" Padding="1, 3, 1, 0" HorzAlign="Right" Font="宋体, 14pt"/>
+          <TableCell Name="Cell9" Border.Lines="All" Text="[Table6.设备品牌]" Padding="1, 3, 1, 0" Font="宋体, 14pt"/>
+        </TableRow>
+        <TableRow Name="Row3" Height="24.57">
+          <TableCell Name="Cell11" Border.Lines="All" Text="设备型号" Padding="1, 3, 1, 0" HorzAlign="Right" Font="宋体, 14pt"/>
+          <TableCell Name="Cell12" Border.Lines="All" Text="[Table6.设备型号]" Padding="1, 3, 1, 0" Font="宋体, 14pt"/>
+          <TableCell Name="Cell13" Border.Lines="All" Text="工作中心" Padding="1, 3, 1, 0" HorzAlign="Right" Font="宋体, 14pt"/>
+          <TableCell Name="Cell14" Border.Lines="All" Text="[Table6.工作中心]" Padding="1, 3, 1, 0" Font="宋体, 14pt"/>
+        </TableRow>
+        <TableRow Name="Row4" Height="24.57">
+          <TableCell Name="Cell16" Border.Lines="All" Text="管理人员" Padding="1, 3, 1, 0" HorzAlign="Right" Font="宋体, 14pt"/>
+          <TableCell Name="Cell17" Border.Lines="All" Text="[Table6.管理人员]" Padding="1, 3, 1, 0" Font="宋体, 14pt"/>
+          <TableCell Name="Cell18" Border.Lines="All" Text="工作状态" Padding="1, 3, 1, 0" HorzAlign="Right" Font="宋体, 14pt"/>
+          <TableCell Name="Cell19" Border.Lines="All" Text="[Table6.工作状态]" Padding="1, 3, 1, 0" Font="宋体, 14pt"/>
+        </TableRow>
+        <TableRow Name="Row5" Height="24.57">
+          <TableCell Name="Cell21" Border.Lines="All" Text="购买价格" Padding="1, 3, 1, 0" HorzAlign="Right" Font="宋体, 14pt"/>
+          <TableCell Name="Cell22" Border.Lines="All" Text="[Table6.购买价格]" Padding="1, 3, 1, 0" Font="宋体, 14pt"/>
+          <TableCell Name="Cell23" Border.Lines="All" Text="购买时间" Padding="1, 3, 1, 0" HorzAlign="Right" Font="宋体, 14pt"/>
+          <TableCell Name="Cell24" Border.Lines="All" Text="[Table6.购买时间]" Padding="1, 3, 1, 0" Font="宋体, 14pt"/>
+        </TableRow>
+      </TableObject>
+      <TableObject Name="Table2" Top="255.15" Width="717.98" Height="28.35" Border.Lines="All">
+        <TableColumn Name="Column5" Width="92.11"/>
+        <TableColumn Name="Column6" Width="82.66"/>
+        <TableColumn Name="Column7" Width="92.11"/>
+        <TableColumn Name="Column8" Width="82.66"/>
+        <TableColumn Name="Column9" Width="101.56"/>
+        <TableColumn Name="Column10" Width="82.66"/>
+        <TableColumn Name="Column11" Width="92.11"/>
+        <TableColumn Name="Column12" Width="92.11"/>
+        <TableRow Name="Row6" Height="28.35">
+          <TableCell Name="Cell25" Border.Lines="All" Text="计划日期" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell26" Border.Lines="All" Text="处理状态" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell27" Border.Lines="All" Text="保养日期" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell28" Border.Lines="All" Text="保养人员" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell29" Border.Lines="All" Text="保养内容项" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell30" Border.Lines="All" Text="机器状态" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell31" Border.Lines="All" Text="处理意见 " HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell32" Border.Lines="All" Text="备注" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+        </TableRow>
+      </TableObject>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="287.5" Width="718.2" Height="28.35" DataSource="Table4">
+      <TableObject Name="Table3" Width="717.98" Height="28.35" Border.Lines="All">
+        <TableColumn Name="Column13" Width="92.11"/>
+        <TableColumn Name="Column14" Width="82.66"/>
+        <TableColumn Name="Column15" Width="92.11"/>
+        <TableColumn Name="Column16" Width="82.66"/>
+        <TableColumn Name="Column17" Width="101.56"/>
+        <TableColumn Name="Column18" Width="82.66"/>
+        <TableColumn Name="Column19" Width="92.11"/>
+        <TableColumn Name="Column20" Width="92.11"/>
+        <TableRow Name="Row7" Height="28.35">
+          <TableCell Name="Cell33" Border.Lines="All" Text="[Table4.计划日期]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell34" Border.Lines="All" Text="[Table4.处理状态]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell35" Border.Lines="All" Text="[Table4.保养日期]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell36" Border.Lines="All" Text="[Table4.保养人员]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell37" Border.Lines="All" Text="[Table4.保养内容]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell38" Border.Lines="All" Text="[Table4.机器状态]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell39" Border.Lines="All" Text="[Table4.处理意见]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+          <TableCell Name="Cell40" Border.Lines="All" Text="[Table4.备注]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+        </TableRow>
+      </TableObject>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="319.85" Width="718.2" Height="37.8">
+      <TextObject Name="Text3" Left="189" Top="9.45" Width="132.3" Height="18.9" Text="制表日期：" HorzAlign="Right" Font="宋体, 16pt"/>
+      <TextObject Name="Text4" Left="472.5" Top="9.45" Width="103.95" Height="18.9" Text="制表人：" Font="宋体, 16pt"/>
+      <TextObject Name="Text5" Left="576.45" Top="9.45" Width="132.3" Height="18.9" Text="[TabulatingPerson]" Font="宋体, 16pt"/>
+      <TextObject Name="Text6" Left="321.3" Top="9.45" Width="132.3" Height="18.9" Text="[Date]" Font="宋体, 16pt"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>

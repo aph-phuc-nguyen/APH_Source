@@ -1,0 +1,19 @@
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\bin\Debug\netcoreapp2.1\KZ_EPMAPI.deps.json
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\bin\Debug\netcoreapp2.1\KZ_EPMAPI.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\bin\Debug\netcoreapp2.1\KZ_EPMAPI.pdb
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.AssemblyInfoInputs.cache
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.AssemblyInfo.cs
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.pdb
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\bin\Debug\netcoreapp2.1\KZ_EPMAPI.deps.json
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\bin\Debug\netcoreapp2.1\KZ_EPMAPI.dll
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\bin\Debug\netcoreapp2.1\KZ_EPMAPI.pdb
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.AssemblyInfoInputs.cache
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.AssemblyInfo.cs
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.dll
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.pdb
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\bin\Debug\netcoreapp2.1\SJ_BSHelper.dll
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.csprojAssemblyReference.cache
+C:\Resource\SVN\Mes-Plant\source\SJeMES_API\KZ_EPMAPI\obj\Debug\netcoreapp2.1\KZ_EPMAPI.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\obj\Debug\netcoreapp3.0\SJ_BASEAPI.csprojAssemblyReference.cache
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\obj\Debug\netcoreapp3.0\SJ_BASEAPI.AssemblyInfoInputs.cache
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\obj\Debug\netcoreapp3.0\SJ_BASEAPI.AssemblyInfo.cs
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\bin\Debug\netcoreapp3.0\SJ_BASEAPI.deps.json
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\bin\Debug\netcoreapp3.0\SJ_BASEAPI.dll
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\bin\Debug\netcoreapp3.0\SJ_BASEAPI.pdb
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\bin\Debug\netcoreapp3.0\GDSJFramework_NETCore.dll
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\bin\Debug\netcoreapp3.0\GDSJFramework_NETCore.pdb
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\obj\Debug\netcoreapp3.0\SJ_BASEAPI.csproj.CopyComplete
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\obj\Debug\netcoreapp3.0\SJ_BASEAPI.dll
+C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJ_BASEAPI\obj\Debug\netcoreapp3.0\SJ_BASEAPI.pdb

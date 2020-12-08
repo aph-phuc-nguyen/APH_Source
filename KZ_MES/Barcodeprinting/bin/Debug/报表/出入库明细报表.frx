@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/27/2019 18:34:13" ReportInfo.Modified="09/21/2019 15:50:26" ReportInfo.CreatorVersion="2014.4.8.0">
+  <Dictionary>
+    <OleDbDataConnection Name="Connection" ConnectionString="rijcmlq+D6ndh9H3C/r0AU5T6Mq4BZt44IzSNm+8siJ8lrxROsEfEN4TorJ6jUEPFOlkzzO6BNpQWKQsYFFhoXycqYNK7bI2Kq1h9nHboOf0WgiC2klfltfcgQhb4rYL5I0q19uULTGowbr9LwN1Sam4LghZw==">
+      <TableDataSource Name="Table5" Alias="Table" DataType="System.Int32" Enabled="true" SelectCommand="SELECT &#13;&#10;WK_ID as Tab_zhiling,&#13;&#10;UNIT AS Tab_JiaGongDanWei,&#13;&#10;BAR_ID AS Tab_BuJianMingCheng,&#13;&#10;PROD_NO AS Tab_XingHao,&#13;&#10;SHOE_NO AS Tab_MaShu,&#13;&#10;OPERATION_TYPE AS Tab_CaoZaoLeiXing,&#13;&#10;QTY AS Tab_ShuLiang,&#13;&#10;CREATEDATE AS Tab_RiQi,&#13;&#10;CREATEBY AS Tab_CaoZuoRenYuan,&#13;&#10;INSPECTOR AS Tab_JianYanRenYuan,&#13;&#10;NOTE AS Tab_BeiZhu &#13;&#10;from CODE003A3 where 1=1">
+        <Column Name="TAB_ZHILING" DataType="System.String"/>
+        <Column Name="TAB_JIAGONGDANWEI" DataType="System.String"/>
+        <Column Name="TAB_BUJIANMINGCHENG" DataType="System.String"/>
+        <Column Name="TAB_XINGHAO" DataType="System.String"/>
+        <Column Name="TAB_MASHU" DataType="System.String"/>
+        <Column Name="TAB_CAOZAOLEIXING" DataType="System.String"/>
+        <Column Name="TAB_SHULIANG" DataType="System.String"/>
+        <Column Name="TAB_RIQI" DataType="System.DateTime"/>
+        <Column Name="TAB_CAOZUORENYUAN" DataType="System.String"/>
+        <Column Name="TAB_JIANYANRENYUAN" DataType="System.String"/>
+        <Column Name="TAB_BEIZHU" DataType="System.String"/>
+      </TableDataSource>
+    </OleDbDataConnection>
+    <Parameter Name="Tab_zhiling" DataType="System.String"/>
+    <Parameter Name="Tab_JiaGongDanWei" DataType="System.String"/>
+    <Parameter Name="Tab_BuJianMingCheng" DataType="System.String"/>
+    <Parameter Name="Tab_XingHao" DataType="System.String"/>
+    <Parameter Name="Tab_MaShu" DataType="System.String"/>
+    <Parameter Name="Tab_CaoZaoLeiXing" DataType="System.String"/>
+    <Parameter Name="Tab_ShuLiang" DataType="System.String"/>
+    <Parameter Name="Tab_RiQi" DataType="System.String"/>
+    <Parameter Name="Tab_CaoZuoRenYuan" DataType="System.String"/>
+    <Parameter Name="Tab_JianYanRenYuan" DataType="System.String"/>
+    <Parameter Name="Tab_BeiZhu" DataType="System.String"/>
+    <Parameter Name="TAB_ZL" DataType="System.String"/>
+    <Parameter Name="TAB_RI" DataType="System.String"/>
+    <Parameter Name="TAB_RIQI" DataType="System.String"/>
+  </Dictionary>
+  <ReportPage Name="Page1" PaperWidth="285">
+    <PageHeaderBand Name="PageHeader1" Width="1001.7" Height="160.65">
+      <TableObject Name="Table1" Left="9.45" Top="122.85" Width="975.35" Height="37.8">
+        <TableColumn Name="Column1"/>
+        <TableColumn Name="Column2" Width="94.5"/>
+        <TableColumn Name="Column3" Width="122.85"/>
+        <TableColumn Name="Column4" Width="103.95"/>
+        <TableColumn Name="Column5" Width="95.5"/>
+        <TableColumn Name="Column6" Width="57.7"/>
+        <TableColumn Name="Column7"/>
+        <TableColumn Name="Column8"/>
+        <TableColumn Name="Column9"/>
+        <TableColumn Name="Column10" Width="85.05"/>
+        <TableColumn Name="Column11" Width="85.05"/>
+        <TableColumn Name="Column12"/>
+        <TableRow Name="Row1" Height="37.8">
+          <TableCell Name="Cell1" Border.Lines="All" Text="行号" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell2" Border.Lines="All" Text="制令" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell3" Border.Lines="All" Text="加工单位" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell4" Border.Lines="All" Text="部件名称" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell5" Border.Lines="All" Text="型号" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell26" Border.Lines="All" Text="码数" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell27" Border.Lines="All" Text="操作类型" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell28" Border.Lines="All" Text="数量" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell29" Border.Lines="All" Text="日期" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell30" Border.Lines="All" Text="操作人员" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell31" Border.Lines="All" Text="检验人员" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell32" Border.Lines="All" Text="备注" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+        </TableRow>
+      </TableObject>
+      <TextObject Name="Text5" Left="359.1" Top="9.45" Width="132.3" Height="37.8" Text="出入库明细报表" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+      <TextObject Name="Text2" Left="18.9" Top="85.05" Width="94.5" Height="28.35" Text="日期：" HorzAlign="Right" VertAlign="Center" Font="宋体, 12pt"/>
+      <TextObject Name="Text7" Left="113.4" Top="85.05" Width="132.3" Height="28.35" Text="[TAB_RI]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+      <TextObject Name="Text8" Left="264.6" Top="85.05" Width="151.2" Height="28.35" Text="[TAB_RIQI]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+      <TextObject Name="Text9" Left="245.7" Top="94.5" Width="18.9" Height="18.9" Text="~" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="164.65" Width="1001.7" Height="37.8" DataSource="Table5">
+      <TableObject Name="Table2" Left="9.45" Width="975.35" Height="37.8">
+        <TableColumn Name="Column13"/>
+        <TableColumn Name="Column14" Width="94.5"/>
+        <TableColumn Name="Column15" Width="122.85"/>
+        <TableColumn Name="Column16" Width="103.95"/>
+        <TableColumn Name="Column17" Width="95.5"/>
+        <TableColumn Name="Column18" Width="57.7"/>
+        <TableColumn Name="Column19"/>
+        <TableColumn Name="Column20"/>
+        <TableColumn Name="Column21"/>
+        <TableColumn Name="Column22" Width="85.05"/>
+        <TableColumn Name="Column23" Width="85.05"/>
+        <TableColumn Name="Column24"/>
+        <TableRow Name="Row2" Height="37.8">
+          <TableCell Name="Cell33" Border.Lines="All" Text="[Row#]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell34" Border.Lines="All" Text="[Table.TAB_ZHILING]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell35" Border.Lines="All" Text="[Table.TAB_JIAGONGDANWEI]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell36" Border.Lines="All" Text="[Table.TAB_BUJIANMINGCHENG]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell37" Border.Lines="All" Text="[Table.TAB_XINGHAO]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell38" Border.Lines="All" Text="[Table.TAB_MASHU]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell39" Border.Lines="All" Text="[Table.TAB_CAOZAOLEIXING]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell40" Border.Lines="All" Text="[Table.TAB_SHULIANG]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell41" Border.Lines="All" Text="[Table.TAB_RIQI]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell42" Border.Lines="All" Text="[Table.TAB_CAOZUORENYUAN]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell43" Border.Lines="All" Text="[Table.TAB_JIANYANRENYUAN]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell44" Border.Lines="All" Text="[Table.TAB_BEIZHU]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+        </TableRow>
+      </TableObject>
+    </DataBand>
+  </ReportPage>
+</Report>

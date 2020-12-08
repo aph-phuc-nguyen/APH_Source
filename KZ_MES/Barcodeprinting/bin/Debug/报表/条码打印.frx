@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/27/2019 11:51:39" ReportInfo.Modified="09/01/2020 15:58:40" ReportInfo.CreatorVersion="2014.4.8.0">
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqHwzMSgwTFaHpjtG3vsOj8Wl+KKaQgR8U9t6gA4uoVje0RN39p2HGOSEjYLR3wZD2GhYTIT0amHC1sQlYOJVZqujZZbAwyhtp65yBKTeCucUGUQloWx1UYtfQVC0i3+T2lxFlUUqxi2HnoCjStlbfI1oncK9ivAMFFF3AvTSOr4EsUlBDJHvIJFzRAlx7erS4s4gQOB3TNG5MQmqEtz1CoA==">
+      <TableDataSource Name="Table" DataType="System.Int32" Enabled="true" SelectCommand="select '' as OUT_UNIT,'' as zhiling,'' as SHOE_NO,'' as QTY2,'' as CREATEBY,'' as UNIT,'' as PROD_NO,'' as BAR_ID,'' as TIME_ROTATION,'' as AD_DATA,'' as INSPECTOR,&#13;&#10;'' as UDF01,'' as UDF02,'' as UDF03,'' as UDF04,'' as UDF05,'' as UDF06,'' as PACKING_BARCODE from CODE003M">
+        <Column Name="OUT_UNIT" DataType="System.String"/>
+        <Column Name="zhiling" DataType="System.String"/>
+        <Column Name="SHOE_NO" DataType="System.String"/>
+        <Column Name="QTY2" DataType="System.String"/>
+        <Column Name="CREATEBY" DataType="System.String"/>
+        <Column Name="UNIT" DataType="System.String"/>
+        <Column Name="PROD_NO" DataType="System.String"/>
+        <Column Name="BAR_ID" DataType="System.String"/>
+        <Column Name="TIME_ROTATION" DataType="System.String"/>
+        <Column Name="AD_DATA" DataType="System.String"/>
+        <Column Name="INSPECTOR" DataType="System.String"/>
+        <Column Name="UDF01" DataType="System.String"/>
+        <Column Name="UDF02" DataType="System.String"/>
+        <Column Name="UDF03" DataType="System.String"/>
+        <Column Name="UDF04" DataType="System.String"/>
+        <Column Name="UDF05" DataType="System.String"/>
+        <Column Name="UDF06" DataType="System.String"/>
+        <Column Name="PACKING_BARCODE" DataType="System.String"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+    <Parameter Name="wfdw" DataType="System.String"/>
+    <Parameter Name="zl" DataType="System.String"/>
+    <Parameter Name="bjmc" DataType="System.String"/>
+    <Parameter Name="sjxyrq" DataType="System.String"/>
+    <Parameter Name="flrq" DataType="System.String"/>
+    <Parameter Name="flsl" DataType="System.String"/>
+    <Parameter Name="czy" DataType="System.String"/>
+    <Parameter Name="jgdw" DataType="System.String"/>
+    <Parameter Name="xx" DataType="System.String"/>
+    <Parameter Name="ms" DataType="System.String"/>
+    <Parameter Name="sjlc" DataType="System.String"/>
+    <Parameter Name="sjjhrq" DataType="System.String"/>
+    <Parameter Name="jhsl" DataType="System.String"/>
+    <Parameter Name="jyy" DataType="System.String"/>
+    <Parameter Name="zdyzd1" DataType="System.String"/>
+    <Parameter Name="zdyzd2" DataType="System.String"/>
+    <Parameter Name="zdyzd3" DataType="System.String"/>
+    <Parameter Name="zdyzd4" DataType="System.String"/>
+    <Parameter Name="zdyzd5" DataType="System.String"/>
+    <Parameter Name="zdyzd6" DataType="System.String"/>
+    <Parameter Name="BarCode" DataType="System.String"/>
+  </Dictionary>
+  <ReportPage Name="Page1" PaperWidth="77" PaperHeight="106" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0" FirstPageSource="4" OtherPagesSource="4" Guides="160.65,47.25,56.7,66.15,66.15,56.7,66.15,264.6,37.8,245.7,103.95,103.95,103.95,103.95,292.95,28.35,292.95,0,264.6,255.15,255.15,236.25,236.25,236.25,226.8,292.95">
+    <DataBand Name="Data1" Width="291.06" Height="396.91" Guides="37.8,396.9,396.9,396.9" DataSource="Table" Columns.Width="219.24" Columns.MinRowCount="1">
+      <TableObject Name="Table1" Left="4.8" Top="9.45" Width="269.27" Height="387.46">
+        <TableColumn Name="Column9" Width="27.79"/>
+        <TableColumn Name="Column8" Width="35.27"/>
+        <TableColumn Name="Column2" Width="27.81"/>
+        <TableColumn Name="Column3" Width="31.57"/>
+        <TableColumn Name="Column4" Width="35.43"/>
+        <TableColumn Name="Column5" Width="42.08"/>
+        <TableColumn Name="Column6" Width="32.41"/>
+        <TableColumn Name="Column7" Width="36.91"/>
+        <TableRow Name="Row1" Height="89.74">
+          <TableCell Name="Cell36" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text11" Width="28.35" Height="85.05" Text="检验员：" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+          <TableCell Name="Cell32" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text10" Left="9.45" Width="18.9" Height="66.15" Text="操作员：" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+          <TableCell Name="Cell2" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text6" Left="28.35" Width="28.35" Height="85.05" Text="码数：" Angle="90" Font="宋体, 11pt"/>
+            <TextObject Name="Text9" Left="9.45" Width="18.9" Height="85.05" Text="发货数量：" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+          <TableCell Name="Cell3" Border.Lines="All" Font="宋体, 9pt"/>
+          <TableCell Name="Cell4" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text5" Left="9.45" Width="18.9" Height="75.6" Text="部件名称：" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+          <TableCell Name="Cell5" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text3" Left="9.45" Width="18.9" Height="56.7" Text="制令：" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+          <TableCell Name="Cell21" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text14" Left="9.45" Width="18.9" Height="75.6" Text="鞋型：" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+          <TableCell Name="Cell25" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text1" Left="9.45" Width="18.9" Height="85.05" Text="外发单位：" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+        </TableRow>
+        <TableRow Name="Row2" Height="108.64">
+          <TableCell Name="Cell37" Border.Lines="All" Text="[Table.CREATEBY]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell33" Border.Lines="All" Text="[Table.CREATEBY]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell7" Border.Lines="All" Text="[Table.QTY2]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell8" Border.Lines="All" Text="[Table.BAR_ID]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell9" Border.Lines="All" Text="[Table.SHOE_NO]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell10" Border.Lines="All" Text="[Table.zhiling]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell22" Border.Lines="All" Text="[Table.PROD_NO]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell26" Border.Lines="All" Text="[Table.OUT_UNIT]" Angle="90" Font="宋体, 9pt"/>
+        </TableRow>
+        <TableRow Name="Row3" Height="80.29">
+          <TableCell Name="Cell38" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text7" Left="9.45" Width="18.9" Height="94.5" Text="需交货日期:" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+          <TableCell Name="Cell34" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text13" Width="28.35" Height="85.05" Text="加工单位：" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+          <TableCell Name="Cell12" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text8" Left="9.45" Width="18.9" Height="66.15" Text="批次：" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+          <TableCell Name="Cell13" Border.Lines="All" Font="宋体, 9pt">
+            <TextObject Name="Text12" Left="9.45" Width="18.9" Height="85.05" Text="领料类型：" Angle="90" Font="宋体, 11pt"/>
+          </TableCell>
+          <TableCell Name="Cell14" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell15" Font="宋体, 9pt">
+            <BarcodeObject Name="Barcode1" Left="9.45" Top="9.75" Width="94.5" Height="84.75" AutoSize="false" Text="[Table.PACKING_BARCODE]" ShowText="false" AllowExpressions="true" Barcode="QR Code" Barcode.ErrorCorrection="L" Barcode.Encoding="UTF8" Barcode.QuietZone="true"/>
+          </TableCell>
+          <TableCell Name="Cell23" Font="宋体, 9pt"/>
+          <TableCell Name="Cell29" Font="宋体, 9pt"/>
+        </TableRow>
+        <TableRow Name="Row4" Height="108.79">
+          <TableCell Name="Cell39" Border.Lines="All" Text="[Table.AD_DATA]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell35" Border.Lines="All" Text="[Table.UNIT]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell17" Border.Lines="All" Text="[Table.TIME_ROTATION]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell18" Border.Lines="All" Text="[Table.UDF01]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell19" Text="[Table.PACKING_BARCODE]" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell20" Angle="90" Font="宋体, 9pt">
+            <BarcodeObject Name="Barcode2" Left="9.45" Top="9.45" Width="94.5" Height="84.75" AutoSize="false" Text="[Table.PACKING_BARCODE]" ShowText="false" AllowExpressions="true" Barcode="QR Code" Barcode.ErrorCorrection="L" Barcode.Encoding="UTF8" Barcode.QuietZone="true"/>
+          </TableCell>
+          <TableCell Name="Cell31" Font="宋体, 9pt"/>
+          <TableCell Name="Cell30" Font="宋体, 9pt"/>
+        </TableRow>
+      </TableObject>
+    </DataBand>
+  </ReportPage>
+</Report>

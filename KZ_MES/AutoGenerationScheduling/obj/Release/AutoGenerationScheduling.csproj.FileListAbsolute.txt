@@ -1,0 +1,4 @@
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Release\AutoGenerationScheduling.csprojAssemblyReference.cache
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Release\AutoGenerationScheduling.AutoGenerationSchedulingForm.resources
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Release\AutoGenerationScheduling.Properties.Resources.resources
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Release\AutoGenerationScheduling.csproj.GenerateResource.cache

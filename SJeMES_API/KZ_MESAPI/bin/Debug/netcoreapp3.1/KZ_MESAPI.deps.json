@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KZ_MESAPI/1.0.0": {
+        "runtime": {
+          "KZ_MESAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KZ_MESAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

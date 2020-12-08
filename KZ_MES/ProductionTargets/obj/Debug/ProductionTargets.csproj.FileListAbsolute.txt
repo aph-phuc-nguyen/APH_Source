@@ -1,0 +1,71 @@
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\ProductionTargets.dll.config
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\ProductionTargets.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\ProductionTargets.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\en-US\ProductionTargets.resources.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\vi-VN\ProductionTargets.resources.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\zh-CN\ProductionTargets.resources.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\MaterialSkin.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\Newtonsoft.Json.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\NPOI.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\NPOI.OOXML.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\NPOI.OpenXml4Net.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\SJeMES_Control_Library.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\SJeMES_Framework.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\Newtonsoft.Json.xml
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\SJeMES_Control_Library.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\SJeMES_Framework.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\SJeMES_Framework.dll.config
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.csprojAssemblyReference.cache
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.MessageForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.PlanAdjustmentForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.ProductionTargetsForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.Properties.Resources.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.ProductionTargetsForm.en-US.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.ProductionTargetsForm.vi-VN.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.ProductionTargetsForm.zh-CN.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.csproj.GenerateResource.cache
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.csproj.CoreCompileInputs.cache
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\en-US\ProductionTargets.resources.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\vi-VN\ProductionTargets.resources.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\zh-CN\ProductionTargets.resources.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.csproj.CopyComplete
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\ProductionTargets.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\en-US\ProductionTargets.resources.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\vi-VN\ProductionTargets.resources.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\zh-CN\ProductionTargets.resources.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\NPOI.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\NPOI.OOXML.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.MessageForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.PlanAdjustmentForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.ProductionTargetsForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.ProductionTargetsForm.en-US.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.ProductionTargetsForm.vi-VN.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.ProductionTargetsForm.zh-CN.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\en-US\ProductionTargets.resources.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\vi-VN\ProductionTargets.resources.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\zh-CN\ProductionTargets.resources.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\ProductionTargets.exe.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\bin\Debug\ProductionTargets.exe
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionTargets\obj\Debug\ProductionTargets.exe

@@ -1,0 +1,61 @@
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.pdb
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.Properties.Resources.resources
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csproj.GenerateResource.cache
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.pdb
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\Newtonsoft.Json.dll
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.AutoGenerationSchedulingForm.resources
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csproj.CopyComplete
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\Newtonsoft.Json.xml
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\MaterialSkin.dll
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.dll
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.pdb
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.dll.config
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.dll.config
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.dll
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csprojAssemblyReference.cache
+F:\project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.AutoGenerationSchedulingForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.dll
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.pdb
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\MaterialSkin.dll
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\Newtonsoft.Json.dll
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.dll
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\Newtonsoft.Json.xml
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.pdb
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.dll.config
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.AutoGenerationSchedulingForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.Properties.Resources.resources
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csproj.GenerateResource.cache
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csproj.CoreCompileInputs.cache
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csproj.CopyComplete
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.pdb
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.dll.config
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.dll
+E:\projects\Mes-Plant\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.dll
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.pdb
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\bin\Debug\Newtonsoft.Json.dll
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.pdb
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\bin\Debug\SJeMES_Framework.dll.config
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csprojAssemblyReference.cache
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.AutoGenerationSchedulingForm.resources
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.Properties.Resources.resources
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csproj.GenerateResource.cache
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.csproj.CopyComplete
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.pdb
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.exe.config
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\bin\Debug\AutoGenerationScheduling.exe
+F:\MES source\source\KZ_MES\AutoGenerationScheduling\obj\Debug\AutoGenerationScheduling.exe

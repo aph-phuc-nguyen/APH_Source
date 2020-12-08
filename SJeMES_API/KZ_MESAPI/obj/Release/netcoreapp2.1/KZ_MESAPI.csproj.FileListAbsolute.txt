@@ -1,0 +1,9 @@
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Release\netcoreapp2.1\KZ_MESAPI.deps.json
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Release\netcoreapp2.1\KZ_MESAPI.dll
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Release\netcoreapp2.1\KZ_MESAPI.pdb
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Release\netcoreapp2.1\KZ_MESAPI.AssemblyInfoInputs.cache
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Release\netcoreapp2.1\KZ_MESAPI.AssemblyInfo.cs
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Release\netcoreapp2.1\KZ_MESAPI.csproj.CopyComplete
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Release\netcoreapp2.1\KZ_MESAPI.dll
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Release\netcoreapp2.1\KZ_MESAPI.pdb
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Release\netcoreapp2.1\SJeMES_Framework_NETCore.dll

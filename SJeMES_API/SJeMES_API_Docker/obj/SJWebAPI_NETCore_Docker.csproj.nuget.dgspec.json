@@ -1,0 +1,561 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJWebAPI_NETCore_Docker\\SJWebAPI_NETCore_Docker.csproj": {}
+  },
+  "projects": {
+    "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJWebAPI_NETCore_Docker\\SJWebAPI_NETCore_Docker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJWebAPI_NETCore_Docker\\SJWebAPI_NETCore_Docker.csproj",
+        "projectName": "SJWebAPI_NETCore_Docker",
+        "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJWebAPI_NETCore_Docker\\SJWebAPI_NETCore_Docker.csproj",
+        "packagesPath": "C:\\Users\\adamz\\.nuget\\packages\\",
+        "outputPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJWebAPI_NETCore_Docker\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adamz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj"
+              },
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_BASEAPI\\SJ_BASEAPI.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_BASEAPI\\SJ_BASEAPI.csproj"
+              },
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_DMAPI\\SJ_DMAPI.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_DMAPI\\SJ_DMAPI.csproj"
+              },
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_KBAPI\\SJ_KBAPI.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_KBAPI\\SJ_KBAPI.csproj"
+              },
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_MESAPI\\SJ_MESAPI.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_MESAPI\\SJ_MESAPI.csproj"
+              },
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_QAAPI\\SJ_QAAPI.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_QAAPI\\SJ_QAAPI.csproj"
+              },
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_SYSAPI\\SJ_SYSAPI.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_SYSAPI\\SJ_SYSAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_BASEAPI\\SJ_BASEAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_BASEAPI\\SJ_BASEAPI.csproj",
+        "projectName": "SJ_BASEAPI",
+        "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_BASEAPI\\SJ_BASEAPI.csproj",
+        "packagesPath": "C:\\Users\\adamz\\.nuget\\packages\\",
+        "outputPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_BASEAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adamz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_DMAPI\\SJ_DMAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_DMAPI\\SJ_DMAPI.csproj",
+        "projectName": "SJ_DMAPI",
+        "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_DMAPI\\SJ_DMAPI.csproj",
+        "packagesPath": "C:\\Users\\adamz\\.nuget\\packages\\",
+        "outputPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_DMAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adamz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_KBAPI\\SJ_KBAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_KBAPI\\SJ_KBAPI.csproj",
+        "projectName": "SJ_KBAPI",
+        "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_KBAPI\\SJ_KBAPI.csproj",
+        "packagesPath": "C:\\Users\\adamz\\.nuget\\packages\\",
+        "outputPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_KBAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adamz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_MESAPI\\SJ_MESAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_MESAPI\\SJ_MESAPI.csproj",
+        "projectName": "SJ_MESAPI",
+        "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_MESAPI\\SJ_MESAPI.csproj",
+        "packagesPath": "C:\\Users\\adamz\\.nuget\\packages\\",
+        "outputPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_MESAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adamz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_QAAPI\\SJ_QAAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_QAAPI\\SJ_QAAPI.csproj",
+        "projectName": "SJ_QAAPI",
+        "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_QAAPI\\SJ_QAAPI.csproj",
+        "packagesPath": "C:\\Users\\adamz\\.nuget\\packages\\",
+        "outputPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_QAAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adamz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_SYSAPI\\SJ_SYSAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_SYSAPI\\SJ_SYSAPI.csproj",
+        "projectName": "SJ_SYSAPI",
+        "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_SYSAPI\\SJ_SYSAPI.csproj",
+        "packagesPath": "C:\\Users\\adamz\\.nuget\\packages\\",
+        "outputPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\Cloud\\WebAPI\\NetCode\\SJ_SYSAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adamz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj": {
+                "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj",
+        "projectName": "GDSJFramework_NETCore",
+        "projectPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\GDSJFramework_NETCore.csproj",
+        "packagesPath": "C:\\Users\\adamz\\.nuget\\packages\\",
+        "outputPath": "E:\\数据\\工作\\商基\\SVN\\标准产品\\开发框架\\GDSJFramework_NETCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adamz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "BouncyCastle.NetCore": {
+              "target": "Package",
+              "version": "[1.8.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.19.50, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

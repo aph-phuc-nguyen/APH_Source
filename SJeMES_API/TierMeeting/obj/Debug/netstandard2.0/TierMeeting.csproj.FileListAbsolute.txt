@@ -1,0 +1,3 @@
+F:\Server Project\Mes-Plant\source\SJeMES_API\TierMeeting\obj\Debug\netstandard2.0\TierMeeting.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\SJeMES_API\TierMeeting\obj\Debug\netstandard2.0\TierMeeting.AssemblyInfoInputs.cache
+F:\Server Project\Mes-Plant\source\SJeMES_API\TierMeeting\obj\Debug\netstandard2.0\TierMeeting.AssemblyInfo.cs

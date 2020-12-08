@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{809D0F64-5432-400D-8989-CCE4B54CEBE3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AutocompleteMenu</RootNamespace>
+    <AssemblyName>AutocompleteMenu</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GDSJ_Framework">
+      <HintPath>..\..\..\administrator  manual\开发工具\类库\GDSJ_Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestView\AdvancedSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestView\AdvancedSample.designer.cs">
+      <DependentUpon>AdvancedSample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestView\ComboboxSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestView\ComboboxSample.designer.cs">
+      <DependentUpon>ComboboxSample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestView\CustomItemSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestView\CustomItemSample.designer.cs">
+      <DependentUpon>CustomItemSample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestView\CustomListViewSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestView\CustomListViewSample.designer.cs">
+      <DependentUpon>CustomListViewSample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestView\DataGridViewSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestView\DataGridViewSample.designer.cs">
+      <DependentUpon>DataGridViewSample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestView\DynamicMenuSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestView\DynamicMenuSample.designer.cs">
+      <DependentUpon>DynamicMenuSample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestView\ExtraLargeSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestView\ExtraLargeSample.designer.cs">
+      <DependentUpon>ExtraLargeSample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestView\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestView\MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestView\MultiColumnSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestView\MultiColumnSample.designer.cs">
+      <DependentUpon>MultiColumnSample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestView\SimplestSample.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestView\SimplestSample.designer.cs">
+      <DependentUpon>SimplestSample.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\AutocompleteItem.cs" />
+    <Compile Include="Util\AutocompleteItems.cs" />
+    <Compile Include="Util\AutocompleteListView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Util\AutocompleteMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Util\AutocompleteMenuHost.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Util\ComboBoxItem.cs" />
+    <Compile Include="Util\EventArgs.cs" />
+    <Compile Include="Util\IAutocompleteListView.cs" />
+    <Compile Include="Util\ImageProcessor.cs" />
+    <Compile Include="Util\IPUtil.cs" />
+    <Compile Include="Util\ITextBoxWrapper.cs" />
+    <Compile Include="Util\LanguageHelper.cs" />
+    <Compile Include="Util\MailUtil.cs" />
+    <Compile Include="Util\Observer.cs" />
+    <Compile Include="Util\Range.cs" />
+    <Compile Include="Util\Subject.cs" />
+    <Compile Include="Util\TextBoxWrapper.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TestView\AdvancedSample.resx">
+      <DependentUpon>AdvancedSample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestView\ComboboxSample.resx">
+      <DependentUpon>ComboboxSample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestView\CustomItemSample.resx">
+      <DependentUpon>CustomItemSample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestView\CustomListViewSample.resx">
+      <DependentUpon>CustomListViewSample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestView\DataGridViewSample.resx">
+      <DependentUpon>DataGridViewSample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestView\DynamicMenuSample.resx">
+      <DependentUpon>DynamicMenuSample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestView\ExtraLargeSample.resx">
+      <DependentUpon>ExtraLargeSample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestView\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestView\MultiColumnSample.resx">
+      <DependentUpon>MultiColumnSample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestView\SimplestSample.resx">
+      <DependentUpon>SimplestSample.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\AutocompleteMenu.resx">
+      <DependentUpon>AutocompleteMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Util\AutocompleteMenu.csproj" />
+    <None Include="Util\obj\Debug\AutocompleteMenu.csproj.CoreCompileInputs.cache" />
+    <None Include="Util\obj\Debug\AutocompleteMenu.csprojAssemblyReference.cache" />
+    <None Include="Util\obj\Release\AutocompleteMenu.csproj.CoreCompileInputs.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Util\bin\Debug\" />
+    <Folder Include="Util\bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

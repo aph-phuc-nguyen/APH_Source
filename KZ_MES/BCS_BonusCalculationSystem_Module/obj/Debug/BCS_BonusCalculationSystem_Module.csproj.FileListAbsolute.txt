@@ -1,0 +1,13 @@
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\bin\Debug\BCS_BonusCalculationSystem_Module.exe.config
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\bin\Debug\BCS_BonusCalculationSystem_Module.exe
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\bin\Debug\BCS_BonusCalculationSystem_Module.pdb
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\bin\Debug\Newtonsoft.Json.dll
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\bin\Debug\SJeMES_Framework.pdb
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\bin\Debug\SJeMES_Framework.dll.config
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\bin\Debug\Newtonsoft.Json.xml
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\obj\Debug\BCS_BonusCalculationSystem_Module.csprojAssemblyReference.cache
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\obj\Debug\BCS_BonusCalculationSystem_Module.Properties.Resources.resources
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\obj\Debug\BCS_BonusCalculationSystem_Module.csproj.GenerateResource.cache
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\obj\Debug\BCS_BonusCalculationSystem_Module.csproj.CopyComplete
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\obj\Debug\BCS_BonusCalculationSystem_Module.exe
+F:\MES source\source\KZ_MES\BCS_BonusCalculationSystem_Module\obj\Debug\BCS_BonusCalculationSystem_Module.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <DBTYPE>SQLServer</DBTYPE>
+  <SERVER>112.74.49.34</SERVER>
+  <DB>SJEMSSYS</DB>
+  <USER>sa</USER>
+  <PWD>password!123!abc</PWD>
+</Config>
+
+

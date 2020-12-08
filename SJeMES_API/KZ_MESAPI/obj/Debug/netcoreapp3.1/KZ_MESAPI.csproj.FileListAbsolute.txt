@@ -1,0 +1,8 @@
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp3.1\KZ_MESAPI.deps.json
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp3.1\KZ_MESAPI.dll
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp3.1\KZ_MESAPI.pdb
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp3.1\KZ_MESAPI.csprojAssemblyReference.cache
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp3.1\KZ_MESAPI.AssemblyInfoInputs.cache
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp3.1\KZ_MESAPI.AssemblyInfo.cs
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp3.1\KZ_MESAPI.dll
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp3.1\KZ_MESAPI.pdb

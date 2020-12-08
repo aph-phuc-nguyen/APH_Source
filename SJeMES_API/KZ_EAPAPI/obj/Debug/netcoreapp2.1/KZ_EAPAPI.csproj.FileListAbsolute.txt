@@ -1,0 +1,19 @@
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\bin\Debug\netcoreapp2.1\KZ_EAPAPI.deps.json
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\bin\Debug\netcoreapp2.1\KZ_EAPAPI.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\bin\Debug\netcoreapp2.1\KZ_EAPAPI.pdb
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.AssemblyInfoInputs.cache
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.AssemblyInfo.cs
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.pdb
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\bin\Debug\netcoreapp2.1\KZ_EAPAPI.deps.json
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\bin\Debug\netcoreapp2.1\KZ_EAPAPI.dll
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\bin\Debug\netcoreapp2.1\KZ_EAPAPI.pdb
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.csproj.CoreCompileInputs.cache
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.AssemblyInfoInputs.cache
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.AssemblyInfo.cs
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.csproj.CopyComplete
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.dll
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.pdb
+E:\源码\Mes-Plant\source\SJeMES_API\KZ_EAPAPI\obj\Debug\netcoreapp2.1\KZ_EAPAPI.csprojAssemblyReference.cache

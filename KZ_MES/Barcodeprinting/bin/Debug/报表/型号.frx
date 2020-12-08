@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/28/2019 16:24:45" ReportInfo.Modified="09/23/2019 10:57:01" ReportInfo.CreatorVersion="2014.4.8.0">
+  <Dictionary>
+    <OleDbDataConnection Name="Connection" ConnectionString="rijcmlq+D6ndh9H3C/r0AU5T6Mq4AN1loppxrzoUnv4HPhigeA8k8N9rnbHszdYmdtWRDpYzRrVzZ4SUFbu9bnuk++krOZShrl19PeReJnzU/4y9Nf367cXoY59sy5skp0gjd4TFHk3YVR9T5nscDlBj60lBw==">
+      <TableDataSource Name="Table" DataType="System.Int32" Enabled="true" SelectCommand="SELECT &#13;&#10;PROD_NO AS TAB_XH,&#13;&#10;OPERATION_TYPE AS TAB_czlx,&#13;&#10;CREATEDATE AS TAB_ksrq,&#13;&#10;MODIFYDATE AS TAB_jsrq,&#13;&#10;count(*) as qty&#13;&#10;from CODE003A3 WHERE 1=1&#13;&#10;group by PROD_NO,OPERATION_TYPE,CREATEDATE,MODIFYDATE">
+        <Column Name="TAB_XH" DataType="System.String"/>
+        <Column Name="TAB_CZLX" DataType="System.String"/>
+        <Column Name="TAB_KSRQ" DataType="System.DateTime"/>
+        <Column Name="TAB_JSRQ" DataType="System.DateTime"/>
+        <Column Name="QTY" DataType="System.Decimal"/>
+      </TableDataSource>
+    </OleDbDataConnection>
+    <Parameter Name="ZL" DataType="System.String"/>
+    <Parameter Name="RI" DataType="System.String"/>
+    <Parameter Name="RIQI" DataType="System.String"/>
+  </Dictionary>
+  <ReportPage Name="Page1">
+    <PageHeaderBand Name="PageHeader1" Width="718.2" Height="85.05">
+      <TextObject Name="Text8" Left="217.35" Top="9.45" Width="94.5" Height="37.8" Text="型号" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+      <TableObject Name="Table3" Left="9.45" Top="56.7" Width="529.26" Height="28.35">
+        <TableColumn Name="Column13" Width="69.31"/>
+        <TableColumn Name="Column14" Width="88.21"/>
+        <TableColumn Name="Column15" Width="69.31"/>
+        <TableColumn Name="Column16" Width="116.56"/>
+        <TableColumn Name="Column17" Width="116.56"/>
+        <TableColumn Name="Column18" Width="69.31"/>
+        <TableRow Name="Row3" Height="28.35">
+          <TableCell Name="Cell33" Border.Lines="All" Text="行号" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell34" Border.Lines="All" Text="型号" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell35" Border.Lines="All" Text="操作类型" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell36" Border.Lines="All" Text="开始日期" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell37" Border.Lines="All" Text="结束日期" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell38" Border.Lines="All" Text="合计" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+        </TableRow>
+      </TableObject>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="89.05" Width="718.2" Height="28.35" DataSource="Table">
+      <TableObject Name="Table4" Left="9.45" Width="529.26" Height="28.35">
+        <TableColumn Name="Column19" Width="69.31"/>
+        <TableColumn Name="Column20" Width="88.21"/>
+        <TableColumn Name="Column21" Width="69.31"/>
+        <TableColumn Name="Column22" Width="116.56"/>
+        <TableColumn Name="Column23" Width="116.56"/>
+        <TableColumn Name="Column24" Width="69.31"/>
+        <TableRow Name="Row4" Height="28.35">
+          <TableCell Name="Cell39" Border.Lines="All" Text="[Row#]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell40" Border.Lines="All" Text="[Table.TAB_XH]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell41" Border.Lines="All" Text="[Table.TAB_CZLX]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell42" Border.Lines="All" Text="[RI]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell43" Border.Lines="All" Text="[RIQI]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+          <TableCell Name="Cell44" Border.Lines="All" Text="[Table.QTY]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt"/>
+        </TableRow>
+      </TableObject>
+    </DataBand>
+  </ReportPage>
+</Report>

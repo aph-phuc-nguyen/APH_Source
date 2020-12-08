@@ -1,0 +1,71 @@
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQueryForm.exe.config
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQueryForm.exe
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQueryForm.pdb
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\AutocompleteMenu.dll
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\MaterialSkin.dll
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\Newtonsoft.Json.dll
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Control_Library.dll
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.dll
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\Newtonsoft.Json.xml
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Control_Library.pdb
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.pdb
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.dll.config
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csprojAssemblyReference.cache
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.ProductionInputQueryForm.resources
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQueryForm.Properties.Resources.resources
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csproj.GenerateResource.cache
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csproj.CopyComplete
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQueryForm.exe
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQueryForm.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQueryForm.exe.config
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQueryForm.exe
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQueryForm.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\AutocompleteMenu.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\MaterialSkin.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\Newtonsoft.Json.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Control_Library.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\Newtonsoft.Json.xml
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Control_Library.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.dll.config
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csprojAssemblyReference.cache
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.ProductionInputQueryForm.resources
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQueryForm.Properties.Resources.resources
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csproj.GenerateResource.cache
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csproj.CopyComplete
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQueryForm.exe
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQueryForm.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\AutocompleteMenu.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.ProductionInputQueryForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQuery.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQuery.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQuery.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csprojAssemblyReference.cache
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQuery.dll.config
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQuery.dll
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\bin\Debug\ProductionInputQuery.pdb
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\bin\Debug\Newtonsoft.Json.dll
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Control_Library.pdb
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.pdb
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\bin\Debug\SJeMES_Framework.dll.config
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csprojAssemblyReference.cache
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.ProductionInputQueryForm.resources
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.Properties.Resources.resources
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csproj.GenerateResource.cache
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.csproj.CopyComplete
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.dll
+F:\MES source\source\KZ_MES\ProductionInputQueryForm\obj\Debug\ProductionInputQuery.pdb

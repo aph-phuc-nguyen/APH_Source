@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <SERVER>127.0.0.1</SERVER>
+  <DB>SJEMSSYS</DB>
+  <USER>sa</USER>
+  <PWD>123456</PWD>
+</Config>

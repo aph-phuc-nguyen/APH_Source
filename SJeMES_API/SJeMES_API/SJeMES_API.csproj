@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath></OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath>C:\Users\adamz\OneDrive\工作\公司\商基\产品\NetCode\SJEMESCloud_WebAPI\netcoreapp2.1\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="MySql.Data" Version="8.0.19" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.60" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KZ_BDMAPI\KZ_BDMAPI.csproj" />
+    <ProjectReference Include="..\KZ_EAPAPI\KZ_EAPAPI.csproj" />
+    <ProjectReference Include="..\KZ_EPMAPI\KZ_EPMAPI.csproj" />
+    <ProjectReference Include="..\KZ_EVMAPI\KZ_EVMAPI.csproj" />
+    <ProjectReference Include="..\KZ_JMSAPI\KZ_JMSAPI.csproj" />
+    <ProjectReference Include="..\KZ_MESAPI\KZ_MESAPI.csproj" />
+    <ProjectReference Include="..\KZ_MMSAPI\KZ_MMSAPI.csproj" />
+    <ProjectReference Include="..\KZ_QCMAPI\KZ_QCMAPI.csproj" />
+    <ProjectReference Include="..\KZ_SFCAPI\KZ_SFCAPI.csproj" />
+    <ProjectReference Include="..\KZ_TPMAPI\KZ_TPMAPI.csproj" />
+    <ProjectReference Include="..\TierMeeting\TierMeeting.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SJeMES_Framework_NETCore">
+      <HintPath>..\..\library dll\SJeMES_Framework_NETCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DBConfig.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MMSAPI\bin\Debug\netcoreapp2.1\KZ_MMSAPI.deps.json
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MMSAPI\bin\Debug\netcoreapp2.1\KZ_MMSAPI.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MMSAPI\bin\Debug\netcoreapp2.1\KZ_MMSAPI.pdb
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MMSAPI\obj\Debug\netcoreapp2.1\KZ_MMSAPI.AssemblyInfoInputs.cache
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MMSAPI\obj\Debug\netcoreapp2.1\KZ_MMSAPI.AssemblyInfo.cs
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MMSAPI\obj\Debug\netcoreapp2.1\KZ_MMSAPI.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MMSAPI\obj\Debug\netcoreapp2.1\KZ_MMSAPI.pdb
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MMSAPI\bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MMSAPI\obj\Debug\netcoreapp2.1\KZ_MMSAPI.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MMSAPI\obj\Debug\netcoreapp2.1\KZ_MMSAPI.csprojAssemblyReference.cache

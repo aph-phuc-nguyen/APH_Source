@@ -1,0 +1,4 @@
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_EqMaintainPlan\obj\Release\SJeMES_Mac_EqMaintainPlan.csprojAssemblyReference.cache
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_EqMaintainPlan\obj\Release\SJeMES_Mac_EqMaintainPlan.frmEqMaintainPlan.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_EqMaintainPlan\obj\Release\SJeMES_Mac_EqMaintainPlan.Properties.Resources.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_EqMaintainPlan\obj\Release\SJeMES_Mac_EqMaintainPlan.csproj.GenerateResource.cache

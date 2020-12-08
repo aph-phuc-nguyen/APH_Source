@@ -1,0 +1,4 @@
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_EqCorrecting\obj\Release\SJeMES_Mac_EqCorrecting.csprojAssemblyReference.cache
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_EqCorrecting\obj\Release\SJeMES_Mac_EqCorrecting.frmEqCorrecting.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_EqCorrecting\obj\Release\SJeMES_Mac_EqCorrecting.Properties.Resources.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_EqCorrecting\obj\Release\SJeMES_Mac_EqCorrecting.csproj.GenerateResource.cache

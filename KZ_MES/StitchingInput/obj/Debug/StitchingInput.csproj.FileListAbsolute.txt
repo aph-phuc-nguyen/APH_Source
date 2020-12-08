@@ -1,0 +1,70 @@
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\AutocompleteMenu.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\MaterialSkin.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Control_Library.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Framework.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Control_Library.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Framework.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Framework.dll.config
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.StitchingInputForm.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.dll.config
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.StitchingInputForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.pdb
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.pdb
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\MaterialSkin.dll
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\Newtonsoft.Json.dll
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Control_Library.dll
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Framework.dll
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\Newtonsoft.Json.xml
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Control_Library.pdb
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Framework.pdb
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\SJeMES_Framework.dll.config
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.Properties.Resources.resources
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.StitchingInputForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.GenerateResource.cache
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.CoreCompileInputs.cache
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.CopyComplete
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.pdb
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csprojAssemblyReference.cache
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.dll.config
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.dll
+E:\projects\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.dll
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.pdb
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\Newtonsoft.Json.dll
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.Properties.Resources.resources
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.StitchingInputForm.resources
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.GenerateResource.cache
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.CoreCompileInputs.cache
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csproj.CopyComplete
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.pdb
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\Newtonsoft.Json.xml
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.dll.config
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\bin\Debug\StitchingInput.dll
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.dll
+E:\源码\Mes-Plant\source\KZ_MES\StitchingInput\obj\Debug\StitchingInput.csprojAssemblyReference.cache

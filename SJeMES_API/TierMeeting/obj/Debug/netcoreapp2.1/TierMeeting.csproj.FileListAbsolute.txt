@@ -1,0 +1,11 @@
+F:\MES source\source\SJeMES_API\TierMeeting\bin\Debug\netcoreapp2.1\TierMeeting.deps.json
+F:\MES source\source\SJeMES_API\TierMeeting\bin\Debug\netcoreapp2.1\TierMeeting.dll
+F:\MES source\source\SJeMES_API\TierMeeting\bin\Debug\netcoreapp2.1\TierMeeting.pdb
+F:\MES source\source\SJeMES_API\TierMeeting\bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll
+F:\MES source\source\SJeMES_API\TierMeeting\bin\Debug\netcoreapp2.1\SJ_BSHelper.dll
+F:\MES source\source\SJeMES_API\TierMeeting\obj\Debug\netcoreapp2.1\TierMeeting.AssemblyInfoInputs.cache
+F:\MES source\source\SJeMES_API\TierMeeting\obj\Debug\netcoreapp2.1\TierMeeting.AssemblyInfo.cs
+F:\MES source\source\SJeMES_API\TierMeeting\obj\Debug\netcoreapp2.1\TierMeeting.csproj.CopyComplete
+F:\MES source\source\SJeMES_API\TierMeeting\obj\Debug\netcoreapp2.1\TierMeeting.dll
+F:\MES source\source\SJeMES_API\TierMeeting\obj\Debug\netcoreapp2.1\TierMeeting.pdb
+F:\MES source\source\SJeMES_API\TierMeeting\obj\Debug\netcoreapp2.1\TierMeeting.csprojAssemblyReference.cache

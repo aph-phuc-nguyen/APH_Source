@@ -1,0 +1,7 @@
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_ManualManage\obj\Release\SJeMES_Mac_ManualManage.csprojAssemblyReference.cache
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_ManualManage\obj\Release\SJeMES_Mac_ManualManage.FrmExport.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_ManualManage\obj\Release\SJeMES_Mac_ManualManage.FrmImport.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_ManualManage\obj\Release\SJeMES_Mac_ManualManage.FrmManualManage.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_ManualManage\obj\Release\SJeMES_Mac_ManualManage.FrmPreview.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_ManualManage\obj\Release\SJeMES_Mac_ManualManage.Properties.Resources.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJeMES_Mac_ManualManage\obj\Release\SJeMES_Mac_ManualManage.csproj.GenerateResource.cache

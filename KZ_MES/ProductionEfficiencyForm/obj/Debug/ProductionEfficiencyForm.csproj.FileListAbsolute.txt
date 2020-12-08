@@ -1,0 +1,74 @@
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\SecondEfficiencyForm.exe.config
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\SecondEfficiencyForm.exe
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\SecondEfficiencyForm.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\MaterialSkin.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\Newtonsoft.Json.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\NPOI.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\NPOI.OOXML.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\NPOI.OpenXml4Net.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\SJeMES_Control_Library.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\SJeMES_Framework.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\Newtonsoft.Json.xml
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\SJeMES_Control_Library.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\SJeMES_Framework.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\bin\Debug\SJeMES_Framework.dll.config
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\obj\Debug\ProductionEfficiencyForm.csprojAssemblyReference.cache
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\obj\Debug\SecondEfficiencyForm.Properties.Resources.resources
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\obj\Debug\ProductionEfficiencyForm.ProductionEfficiencyForm.resources
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\obj\Debug\ProductionEfficiencyForm.csproj.GenerateResource.cache
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\obj\Debug\ProductionEfficiencyForm.csproj.CopyComplete
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\obj\Debug\SecondEfficiencyForm.exe
+C:\资料\SVN\MES-Plant\source\KZ_MES\SecondEfficiencyForm\obj\Debug\SecondEfficiencyForm.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\NPOI.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\NPOI.OOXML.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.ProductionEfficiencyForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\ProductionEfficiencyForm.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.pdb
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\ProductionEfficiencyForm.pdb
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\MaterialSkin.dll
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\Newtonsoft.Json.dll
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\NPOI.dll
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\NPOI.OOXML.dll
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\NPOI.OpenXml4Net.dll
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\SJeMES_Control_Library.dll
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\SJeMES_Framework.dll
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\Newtonsoft.Json.xml
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\SJeMES_Control_Library.pdb
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\SJeMES_Framework.pdb
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\SJeMES_Framework.dll.config
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.csprojAssemblyReference.cache
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.Properties.Resources.resources
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.ProductionEfficiencyForm.resources
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.csproj.GenerateResource.cache
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.csproj.CopyComplete
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.pdb
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\AutocompleteMenu.dll
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\ProductionEfficiencyForm.exe.config
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\ProductionEfficiencyForm.exe
+C:\资料\SVN\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.exe
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\AutocompleteMenu.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\ProductionEfficiencyForm.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\bin\Debug\ProductionEfficiencyForm.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionEfficiencyForm\obj\Debug\ProductionEfficiencyForm.dll

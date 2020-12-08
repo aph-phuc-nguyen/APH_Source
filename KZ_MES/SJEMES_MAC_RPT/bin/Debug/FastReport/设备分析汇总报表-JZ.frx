@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/23/2018 15:48:34" ReportInfo.Modified="08/27/2018 09:57:50" ReportInfo.CreatorVersion="2016.1.0.0">
+  <Dictionary>
+    <MsSqlDataConnection Name="Connection" ConnectionString="rijcmlqHwzMSgwTFaHpjtG3vsOj8Wl+KKaQgR8U9t6gA4uoVje0RN39p2HGOSEjYLR3wZD27uWzcZSB6EDHcE1ha8dmnJCzDWAHff8bvwgQmpEYm1teHuRJEO59Siw3zFglm8yxx9NWOgecDqdGBl5sExotVLxzVIlxZ5xUJ7tI7WCDBk1I6WvuBJ+YrtfU/OYaqpeRmtU7h6RqUznDe7pPaaCaTg==">
+      <TableDataSource Name="Table" DataType="System.Int32" Enabled="true" SelectCommand="SELECT MES030M.machine_no as '设备编号',MES030M.machine_name as '设备名称',MES030M.work_state as '工作状态',MES030M.owner as '负责人',MES030A5.date_plan as '计划日期',&#13;&#10;MES030A5.state as '处理状态',MES030A5.date_fix as '校正日期',MES030A5.person_fix as '校正人员',MES030A5.memo_fix as '处理意见' FROM MES030A5(NOLOCK) &#13;&#10;inner join MES030M(NOLOCK) ON MES030A5.machine_no=MES030M.machine_no">
+        <Column Name="设备编号" DataType="System.String"/>
+        <Column Name="设备名称" DataType="System.String"/>
+        <Column Name="工作状态" DataType="System.String"/>
+        <Column Name="负责人" DataType="System.String"/>
+        <Column Name="计划日期" DataType="System.String"/>
+        <Column Name="处理状态" DataType="System.String"/>
+        <Column Name="校正日期" DataType="System.String"/>
+        <Column Name="校正人员" DataType="System.String"/>
+        <Column Name="处理意见" DataType="System.String"/>
+      </TableDataSource>
+    </MsSqlDataConnection>
+    <Parameter Name="TabulatingPerson" DataType="System.String" Description="制表人"/>
+  </Dictionary>
+  <ReportPage Name="Page1">
+    <PageHeaderBand Name="PageHeader1" Width="718.2" Height="179.55">
+      <PictureObject Name="Picture1" Left="9.45" Top="56.7" Width="113.4" Height="85.05" ImageLocation="C:\Users\admin\Desktop\fr_Logo.png"/>
+      <TextObject Name="Text1" Top="9.45" Width="718.2" Height="37.8" Text="设备汇总分析报表-校正计划" HorzAlign="Center" VertAlign="Center" Font="宋体, 20pt, style=Bold"/>
+      <TableObject Name="Table1" Top="151.2" Width="718.2" Height="28.35">
+        <TableColumn Name="Column1" Width="79.8"/>
+        <TableColumn Name="Column2" Width="79.8"/>
+        <TableColumn Name="Column3" Width="79.8"/>
+        <TableColumn Name="Column4" Width="60.9"/>
+        <TableColumn Name="Column5" Width="89.25"/>
+        <TableColumn Name="Column6" Width="79.8"/>
+        <TableColumn Name="Column7" Width="89.25"/>
+        <TableColumn Name="Column8" Width="79.8"/>
+        <TableColumn Name="Column9" Width="79.8"/>
+        <TableRow Name="Row1" Height="28.35">
+          <TableCell Name="Cell1" Border.Lines="All" Text="设备编号" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell2" Border.Lines="All" Text="设备名称" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell3" Border.Lines="All" Text="工作状态" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell4" Border.Lines="All" Text="负责人" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell5" Border.Lines="All" Text="计划日期" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell6" Border.Lines="All" Text="处理状态" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell7" Border.Lines="All" Text="校正日期" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell8" Border.Lines="All" Text="校正人员" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell9" Border.Lines="All" Text="处理意见" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+        </TableRow>
+      </TableObject>
+      <TextObject Name="Text6" Left="567" Top="132.3" Width="151.2" Height="18.9" Text="第[Page#]页/共[TotalPages#]页" HorzAlign="Right" Font="宋体, 10pt"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="183.55" Width="718.2" Height="28.35" DataSource="Table">
+      <TableObject Name="Table1" Width="718.2" Height="28.35">
+        <TableColumn Name="Column10" Width="79.8"/>
+        <TableColumn Name="Column11" Width="79.8"/>
+        <TableColumn Name="Column12" Width="79.8"/>
+        <TableColumn Name="Column13" Width="60.9"/>
+        <TableColumn Name="Column14" Width="89.25"/>
+        <TableColumn Name="Column15" Width="79.8"/>
+        <TableColumn Name="Column16" Width="89.25"/>
+        <TableColumn Name="Column17" Width="79.8"/>
+        <TableColumn Name="Column18" Width="79.8"/>
+        <TableRow Name="Row2" Height="28.35">
+          <TableCell Name="Cell10" Border.Lines="All" Text="[Table.设备编号]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell11" Border.Lines="All" Text="[Table.设备名称]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell12" Border.Lines="All" Text="[Table.工作状态]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell13" Border.Lines="All" Text="[Table.负责人]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell14" Border.Lines="All" Text="[Table.计划日期]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell15" Border.Lines="All" Text="[Table.处理状态]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell16" Border.Lines="All" Text="[Table.校正日期]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell17" Border.Lines="All" Text="[Table.校正人员]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+          <TableCell Name="Cell18" Border.Lines="All" Text="[Table.处理意见]" HorzAlign="Center" VertAlign="Center" Font="宋体, 10pt"/>
+        </TableRow>
+      </TableObject>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="215.9" Width="718.2" Height="28.35">
+      <TextObject Name="Text2" Left="274.05" Width="94.5" Height="28.35" Text="制表日期：" HorzAlign="Right" VertAlign="Center" Font="宋体, 12pt"/>
+      <TextObject Name="Text3" Left="368.55" Width="122.85" Height="28.35" Text="[Date]" Format="Date" Format.Format="d" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+      <TextObject Name="Text4" Left="500.85" Width="94.5" Height="28.35" Text="制表人：" HorzAlign="Right" VertAlign="Center" Font="宋体, 12pt"/>
+      <TextObject Name="Text5" Left="595.35" Width="122.85" Height="28.35" Text="[TabulatingPerson]" HorzAlign="Center" VertAlign="Center" Font="宋体, 12pt"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>

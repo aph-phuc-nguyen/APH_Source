@@ -1,0 +1,5 @@
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJEMES_MAC_RPT\obj\Release\SJEMES_MAC_RPT.csprojAssemblyReference.cache
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJEMES_MAC_RPT\obj\Release\SJEMES_MAC_RPT.MAC_RPT.frm设备汇总分析报表.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJEMES_MAC_RPT\obj\Release\SJEMES_MAC_RPT.MAC_RPT.frm设备采集报表.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJEMES_MAC_RPT\obj\Release\SJEMES_MAC_RPT.Properties.Resources.resources
+G:\XyqWorkSpace\SVN\标准产品\万邦MES_NEW\SJeMES3.0\SJEMES_MAC_RPT\obj\Release\SJEMES_MAC_RPT.csproj.GenerateResource.cache

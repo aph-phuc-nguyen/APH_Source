@@ -1,0 +1,33 @@
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\ImportInnerBox.pdb
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\MaterialSkin.dll
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\Newtonsoft.Json.dll
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\Newtonsoft.Json.xml
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.ImportInnerBoxForm.resources
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.Properties.Resources.resources
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.csproj.GenerateResource.cache
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.csproj.CopyComplete
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.pdb
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\SJeMES_Framework.dll
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\SJeMES_Framework.pdb
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\SJeMES_Framework.dll.config
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\ImportInnerBox.dll.config
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\ImportInnerBox.dll
+F:\project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\ImportInnerBox.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.ImportInnerBoxForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\ImportInnerBox.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\bin\Debug\ImportInnerBox.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ImportInnerBox\obj\Debug\ImportInnerBox.dll

@@ -1,0 +1,122 @@
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\MaterialSkin.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Control_Library.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Control_Library.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\obj\Debug\DayTargets.DayTargetsForm.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\AutocompleteMenu.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.DayTargetModifyForm.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.ErrsDetailsForm.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.dll.config
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.exe.config
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.exe
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.exe
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\DayTargets.DayTargetModifyForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\DayTargets.DayTargetsForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OOXML.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OpenXml4Net.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csprojAssemblyReference.cache
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.pdb
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\MaterialSkin.dll
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Newtonsoft.Json.dll
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.dll
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OOXML.dll
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OpenXml4Net.dll
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Control_Library.dll
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.dll
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Newtonsoft.Json.xml
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Control_Library.pdb
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.pdb
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.dll.config
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\DayTargets.DayTargetModifyForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\DayTargets.DayTargetsForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.Properties.Resources.resources
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.GenerateResource.cache
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.CoreCompileInputs.cache
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.CopyComplete
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.pdb
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csprojAssemblyReference.cache
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.exe.config
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.exe
+E:\projects\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.exe
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.pdb
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\MaterialSkin.dll
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Newtonsoft.Json.dll
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.dll
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OOXML.dll
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OpenXml4Net.dll
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Control_Library.dll
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.dll
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Newtonsoft.Json.xml
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Control_Library.pdb
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.pdb
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\SJeMES_Framework.dll.config
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\DayTargets.DayTargetModifyForm.resources
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\DayTargets.DayTargetsForm.resources
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.Properties.Resources.resources
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.GenerateResource.cache
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.CoreCompileInputs.cache
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.CopyComplete
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.pdb
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.dll.config
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\bin\Debug\Daytargets.dll
+E:\源码\Mes-Plant\source\KZ_MES\Daytargets\obj\Debug\Daytargets.dll
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\Daytargets.pdb
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\Newtonsoft.Json.dll
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\NPOI.dll
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\NPOI.OOXML.dll
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\NPOI.OpenXml4Net.dll
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\ICSharpCode.SharpZipLib.xml
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\Newtonsoft.Json.xml
+F:\MES source\source\KZ_MES\Daytargets\obj\Debug\DayTargets.DayTargetModifyForm.resources
+F:\MES source\source\KZ_MES\Daytargets\obj\Debug\DayTargets.DayTargetsForm.resources
+F:\MES source\source\KZ_MES\Daytargets\obj\Debug\Daytargets.Properties.Resources.resources
+F:\MES source\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.GenerateResource.cache
+F:\MES source\source\KZ_MES\Daytargets\obj\Debug\Daytargets.csproj.CopyComplete
+F:\MES source\source\KZ_MES\Daytargets\obj\Debug\Daytargets.pdb
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\Daytargets.dll.config
+F:\MES source\source\KZ_MES\Daytargets\bin\Debug\Daytargets.dll
+F:\MES source\source\KZ_MES\Daytargets\obj\Debug\Daytargets.dll

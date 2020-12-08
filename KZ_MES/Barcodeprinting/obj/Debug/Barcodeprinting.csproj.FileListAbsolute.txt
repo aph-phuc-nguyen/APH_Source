@@ -1,0 +1,53 @@
+D:\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.Properties.Resources.resources
+D:\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.csproj.GenerateResource.cache
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\Barcodeprinting.exe.config
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\Barcodeprinting.exe
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\Barcodeprinting.pdb
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\MaterialSkin.dll
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Control_Library.dll
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Framework.dll
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\Newtonsoft.Json.dll
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Control_Library.pdb
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Framework.pdb
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Framework.dll.config
+D:\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.csproj.CopyComplete
+D:\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.exe
+D:\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.pdb
+D:\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.BarcodeprintingForm.resources
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\FastReport.Bars.dll
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\FastReport.dll
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\GDSJ_Framework.dll
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\MySql.Data.dll
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\source\KZ_MES\Barcodeprinting\bin\Debug\AutocompleteMenu.dll
+D:\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\bin\Debug\Barcodeprinting.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.BarcodeprintingForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\bin\Debug\Barcodeprinting.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\bin\Debug\Barcodeprinting.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.csprojAssemblyReference.cache
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\bin\Debug\Barcodeprinting.pdb
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\bin\Debug\Newtonsoft.Json.dll
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Framework.dll
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\bin\Debug\Newtonsoft.Json.xml
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Framework.pdb
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\bin\Debug\SJeMES_Framework.dll.config
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.BarcodeprintingForm.resources
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.Properties.Resources.resources
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.csproj.GenerateResource.cache
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.csproj.CopyComplete
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.pdb
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\bin\Debug\Barcodeprinting.exe.config
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\bin\Debug\Barcodeprinting.exe
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.exe
+D:\My_MES_PLANT\source\KZ_MES\Barcodeprinting\obj\Debug\Barcodeprinting.csprojAssemblyReference.cache

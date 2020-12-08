@@ -1,0 +1,84 @@
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Control_Library.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\MaterialSkin.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Control_Library.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.pdb
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.ProductionOutputForm.resources
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.Properties.Resources.resources
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.GenerateResource.cache
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.pdb
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.pdb
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\Newtonsoft.Json.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.CopyComplete
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.ProductionOutputForm.resources
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.dll.config
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.dll.config
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.InOutDetailForm.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.dll.config
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.InOutDetailForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.ProductionOutputForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Control_Library.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\Newtonsoft.Json.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\Newtonsoft.Json.xml
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.dll.config
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.InOutDetailForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.ProductionOutputForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.Properties.Resources.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.GenerateResource.cache
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.CoreCompileInputs.cache
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.CopyComplete
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.DepSelectForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.exe.config
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.exe
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csprojAssemblyReference.cache
+E:\projects\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.exe
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.pdb
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\Newtonsoft.Json.dll
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.dll
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\Newtonsoft.Json.xml
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.pdb
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\SJeMES_Framework.dll.config
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csprojAssemblyReference.cache
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.DepSelectForm.resources
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.InOutDetailForm.resources
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.ProductionOutputForm.resources
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.Properties.Resources.resources
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.GenerateResource.cache
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.CoreCompileInputs.cache
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.csproj.CopyComplete
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.pdb
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.dll.config
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\bin\Debug\ProductionOutput.dll
+E:\源码\Mes-Plant\source\KZ_MES\ProductionOutput\obj\Debug\ProductionOutput.dll

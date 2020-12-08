@@ -1,0 +1,54 @@
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.AssemblyInfoInputs.cache
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.AssemblyInfo.cs
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.deps.json
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.dll
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.pdb
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\GDSJFramework_NETCore.dll
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\GDSJFramework_NETCore.pdb
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csproj.CopyComplete
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.dll
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.pdb
+E:\Users\sunwy-xie\Desktop\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csprojAssemblyReference.cache
+F:\project\Mes-Plant\source\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.deps.json
+F:\project\Mes-Plant\source\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.dll
+F:\project\Mes-Plant\source\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.pdb
+F:\project\Mes-Plant\source\KZ_MESAPI\bin\Debug\netcoreapp2.1\GDSJFramework_NETCore.dll
+F:\project\Mes-Plant\source\KZ_MESAPI\bin\Debug\netcoreapp2.1\GDSJFramework_NETCore.pdb
+F:\project\Mes-Plant\source\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.AssemblyInfoInputs.cache
+F:\project\Mes-Plant\source\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.AssemblyInfo.cs
+F:\project\Mes-Plant\source\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csproj.CopyComplete
+F:\project\Mes-Plant\source\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.dll
+F:\project\Mes-Plant\source\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.pdb
+F:\project\Mes-Plant\source\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csprojAssemblyReference.cache
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.deps.json
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.dll
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.pdb
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.AssemblyInfoInputs.cache
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.AssemblyInfo.cs
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csproj.CopyComplete
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.dll
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.pdb
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.deps.json
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csproj.CopyComplete
+F:\project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.deps.json
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\KZ_MESAPI.pdb
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.AssemblyInfoInputs.cache
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.AssemblyInfo.cs
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.pdb
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\bin\Debug\netcoreapp2.1\SJ_BSHelper.dll
+F:\Server Project\Mes-Plant\source\SJeMES_API\KZ_MESAPI\obj\Debug\netcoreapp2.1\KZ_MESAPI.csprojAssemblyReference.cache

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="11/12/2020 09:57:06" ReportInfo.Modified="11/27/2020 14:15:30" ReportInfo.CreatorVersion="2014.4.8.0">
+  <Dictionary>
+    <OleDbDataConnection Name="Connection" ConnectionString="rijcmlq+D6ndh9H3C/r0AU5T6Mq4BZt44IzSNm+8siJ8lrxROu5Vp/OcwZIHP1qiu8LuRTXmWJq2JW61pl+bgz3E2vWdIm3VBhfIoGL+dTbBUD3IG/eYTispdnH0iTlIXTKslxIPfb10PgQdeEe1RVhIfVfkw==">
+      <TableDataSource Name="Table" DataType="System.Int32" Enabled="true" SelectCommand="select qr_code,org_id,org,unit_no,rout_no,se_id,size_no,size_qty,print_ver,mate_tieno,tie_no,art_no,mod_no,start_date,finish_date from VW_JMS_QRCODE_PRINT_D">
+        <Column Name="UNIT_NO" DataType="System.String"/>
+        <Column Name="ROUT_NO" DataType="System.String"/>
+        <Column Name="SE_ID" DataType="System.String"/>
+        <Column Name="SIZE_NO" DataType="System.String"/>
+        <Column Name="SIZE_QTY" DataType="System.Decimal"/>
+        <Column Name="PRINT_VER" DataType="System.Decimal"/>
+        <Column Name="MATE_TIENO" DataType="System.String"/>
+        <Column Name="TIE_NO" DataType="System.Decimal"/>
+        <Column Name="ART_NO" DataType="System.String"/>
+        <Column Name="MOD_NO" DataType="System.String"/>
+        <Column Name="QR_CODE" DataType="System.String"/>
+        <Column Name="ORG_ID" DataType="System.Decimal"/>
+        <Column Name="ORG" DataType="System.String"/>
+        <Column Name="START_DATE" DataType="System.String"/>
+        <Column Name="FINISH_DATE" DataType="System.String"/>
+      </TableDataSource>
+    </OleDbDataConnection>
+  </Dictionary>
+  <ReportPage Name="Page1" Landscape="true" PaperWidth="45" PaperHeight="85" LeftMargin="0" TopMargin="0" RightMargin="0" BottomMargin="0" FirstPageSource="15" OtherPagesSource="15" Guides="576.45,415.8,415.8,415.8,415.8,425.25,463.05,425.25,500.85,510.3,321.3,0">
+    <DataBand Name="Data1" Width="170.1" Height="321.3" Guides="510.3" DataSource="Table">
+      <TableObject Name="Table2" Left="22.68" Top="18.9" Width="129.3" Height="286.15">
+        <TableColumn Name="Column6" Width="21.55"/>
+        <TableColumn Name="Column7" Width="21.55"/>
+        <TableColumn Name="Column8" Width="21.55"/>
+        <TableColumn Name="Column9" Width="21.55"/>
+        <TableColumn Name="Column10" Width="21.55"/>
+        <TableColumn Name="Column11" Width="21.55"/>
+        <TableRow Name="Row6" Height="31">
+          <TableCell Name="Cell30" Border.Lines="Left, Top" Text="开工" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell31" Border.Lines="All" Text="[Table.MATE_TIENO]" VertAlign="Center" Angle="90" Font="宋体, 9pt" RowSpan="3"/>
+          <TableCell Name="Cell32" Border.Lines="All" Text="模号" HorzAlign="Center" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell33" Border.Lines="All" Text="鞋款" HorzAlign="Center" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell34" Border.Lines="All" Text="订单" HorzAlign="Center" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell55" Border.Lines="Right, Top, Bottom" Text="单位" Angle="90" Font="宋体, 9pt"/>
+        </TableRow>
+        <TableRow Name="Row7" Height="86.94">
+          <TableCell Name="Cell35" Border.Lines="Left, Top" Text="[Table.START_DATE]" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell36" Border.Lines="All" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell37" Border.Lines="All" Text="[Table.MOD_NO]" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell38" Border.Lines="All" Text="[Table.ART_NO]" VertAlign="Center" Angle="90" Font="宋体, 10.5pt, style=Bold"/>
+          <TableCell Name="Cell39" Border.Lines="All" Text="[Table.SE_ID]" VertAlign="Center" Angle="90" Font="宋体, 10.5pt, style=Bold" RowSpan="2"/>
+          <TableCell Name="Cell56" Border.Lines="Right, Top, Bottom" Text="[Table.ROUT_NO]  [Table.ORG]" Angle="90" Font="宋体, 9pt" RowSpan="3"/>
+        </TableRow>
+        <TableRow Name="Row8" Height="32.13">
+          <TableCell Name="Cell40" Border.Lines="Left, Top" Text="完工" HorzAlign="Center" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell41" Border.Lines="All" HorzAlign="Center" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell42" Border.Lines="All" Text="双数" HorzAlign="Center" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell43" Border.Lines="All" Text="尺码" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell44" Border.Lines="All" Font="宋体, 9pt"/>
+          <TableCell Name="Cell57" Border.Lines="Right, Top, Bottom" Font="宋体, 9pt"/>
+        </TableRow>
+        <TableRow Name="Row9" Height="37.8">
+          <TableCell Name="Cell45" Border.Lines="All" Text="[Table.FINISH_DATE]" VertAlign="Center" Angle="90" Font="宋体, 9pt" RowSpan="2"/>
+          <TableCell Name="Cell46" Border.Lines="All" Text="[Table.TIE_NO]" HorzAlign="Center" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell47" Border.Lines="All" Text="[Table.SIZE_QTY]" HorzAlign="Center" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell48" Border.Lines="All" Text="[Table.SIZE_NO]" HorzAlign="Center" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell49" Border.Lines="All" Text="[Table.PRINT_VER]" HorzAlign="Center" VertAlign="Center" Angle="90" Font="宋体, 9pt"/>
+          <TableCell Name="Cell58" Border.Lines="Right, Top, Bottom" Font="宋体, 9pt"/>
+        </TableRow>
+        <TableRow Name="Row10" Height="98.28">
+          <TableCell Name="Cell50" Border.Lines="Left, Top" Font="宋体, 9pt"/>
+          <TableCell Name="Cell51" Font="宋体, 9pt">
+            <BarcodeObject Name="Barcode2" Left="12.47" Top="0.76" Width="94.5" Height="94.5" AutoSize="false" DataColumn="Table.QR_CODE" Text="[Table.QR_CODE]" ShowText="false" Barcode="QR Code" Barcode.ErrorCorrection="L" Barcode.Encoding="UTF8" Barcode.QuietZone="true"/>
+          </TableCell>
+          <TableCell Name="Cell52" Font="宋体, 9pt"/>
+          <TableCell Name="Cell53" Font="宋体, 9pt"/>
+          <TableCell Name="Cell54" Font="宋体, 9pt"/>
+          <TableCell Name="Cell59" Font="宋体, 9pt"/>
+        </TableRow>
+      </TableObject>
+    </DataBand>
+  </ReportPage>
+</Report>

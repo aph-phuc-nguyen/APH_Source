@@ -1,0 +1,90 @@
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.ProductionInputForm.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Control_Library.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\MaterialSkin.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Control_Library.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.CopyComplete
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.pdb
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.ProductionInputForm.resources
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.Properties.Resources.resources
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.GenerateResource.cache
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.pdb
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\Newtonsoft.Json.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\Newtonsoft.Json.xml
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.CopyComplete
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.dll.config
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.dll
+F:\project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.pdb
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.dll.config
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.InOutDetailForm.resources
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.dll.config
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.dll
+C:\Users\Administrator\Desktop\MES-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\MaterialSkin.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\Newtonsoft.Json.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Control_Library.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\Newtonsoft.Json.xml
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Control_Library.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.dll.config
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.InOutDetailForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.ProductionInputForm.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.Properties.Resources.resources
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.GenerateResource.cache
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.CoreCompileInputs.cache
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.CopyComplete
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.pdb
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csprojAssemblyReference.cache
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.dll.config
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.dll
+E:\projects\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.InOutDetailForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.ProductionInputForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.pdb
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.pdb
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\MaterialSkin.dll
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\Newtonsoft.Json.dll
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Control_Library.dll
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.dll
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\Newtonsoft.Json.xml
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Control_Library.pdb
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.pdb
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\SJeMES_Framework.dll.config
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.InOutDetailForm.resources
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.ProductionInputForm.resources
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.Properties.Resources.resources
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.GenerateResource.cache
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.CoreCompileInputs.cache
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.csproj.CopyComplete
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.pdb
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.dll.config
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\bin\Debug\ProductionInput.dll
+E:\源码\Mes-Plant\source\KZ_MES\ProductionInput\obj\Debug\ProductionInput.dll

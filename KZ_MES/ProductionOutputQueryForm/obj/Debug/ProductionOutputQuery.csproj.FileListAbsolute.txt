@@ -1,0 +1,68 @@
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQueryForm.exe.config
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQueryForm.exe
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQueryForm.pdb
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\MaterialSkin.dll
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\Newtonsoft.Json.dll
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Control_Library.dll
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.dll
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\Newtonsoft.Json.xml
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Control_Library.pdb
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.pdb
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.dll.config
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csprojAssemblyReference.cache
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.ProductionOutputQueryForm.resources
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQueryForm.Properties.Resources.resources
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csproj.GenerateResource.cache
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csproj.CopyComplete
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQueryForm.exe
+C:\资料\SVN\MES_Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQueryForm.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQueryForm.exe.config
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQueryForm.exe
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQueryForm.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\MaterialSkin.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\Newtonsoft.Json.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Control_Library.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.dll
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\Newtonsoft.Json.xml
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Control_Library.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.dll.config
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.ProductionOutputQueryForm.resources
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQueryForm.Properties.Resources.resources
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csproj.GenerateResource.cache
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csproj.CopyComplete
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQueryForm.exe
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQueryForm.pdb
+C:\资料\SVN\MES-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csprojAssemblyReference.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQuery.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.ProductionOutputQueryForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQuery.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQuery.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csprojAssemblyReference.cache
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQuery.dll.config
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQuery.dll
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\ProductionOutputQuery.pdb
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\Newtonsoft.Json.dll
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Control_Library.pdb
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.pdb
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\bin\Debug\SJeMES_Framework.dll.config
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csprojAssemblyReference.cache
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.ProductionOutputQueryForm.resources
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.Properties.Resources.resources
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csproj.GenerateResource.cache
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.csproj.CopyComplete
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.dll
+F:\MES source\source\KZ_MES\ProductionOutputQueryForm\obj\Debug\ProductionOutputQuery.pdb

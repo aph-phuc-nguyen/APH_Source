@@ -1,0 +1,61 @@
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\Production_Kanban.pdb
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\MaterialSkin.dll
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.Production_KanbanForm.resources
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.Properties.Resources.resources
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.csproj.GenerateResource.cache
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.csproj.CopyComplete
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.pdb
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\Newtonsoft.Json.dll
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\SJeMES_Control_Library.dll
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\SJeMES_Framework.dll
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\Newtonsoft.Json.xml
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\SJeMES_Control_Library.pdb
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\SJeMES_Framework.pdb
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\SJeMES_Framework.dll.config
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\Production_Kanban.dll.config
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\Production_Kanban.dll
+F:\project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\Production_Kanban.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\MaterialSkin.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\Newtonsoft.Json.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\SJeMES_Control_Library.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\SJeMES_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\Newtonsoft.Json.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\SJeMES_Control_Library.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\SJeMES_Framework.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\SJeMES_Framework.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.Production_KanbanForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.TierMettingMaintain.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.DragForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\LiveCharts.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\LiveCharts.WinForms.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\LiveCharts.Wpf.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\LiveCharts.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\LiveCharts.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\LiveCharts.WinForms.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\LiveCharts.WinForms.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\LiveCharts.Wpf.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\LiveCharts.Wpf.xml
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.LiveChartForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\Production_Kanban.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\bin\Debug\Production_Kanban.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.dll
+F:\MES source\source\KZ_MES\Production_Kanban\bin\Debug\Production_Kanban.pdb
+F:\MES source\source\KZ_MES\Production_Kanban\bin\Debug\Newtonsoft.Json.dll
+F:\MES source\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.DragForm.resources
+F:\MES source\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.LiveChartForm.resources
+F:\MES source\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.Production_KanbanForm.resources
+F:\MES source\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.Properties.Resources.resources
+F:\MES source\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.TierMettingMaintain.resources
+F:\MES source\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.csproj.GenerateResource.cache
+F:\MES source\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.csproj.CopyComplete
+F:\MES source\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.pdb
+F:\MES source\source\KZ_MES\Production_Kanban\bin\Debug\Production_Kanban.exe.config
+F:\MES source\source\KZ_MES\Production_Kanban\bin\Debug\Production_Kanban.exe
+F:\MES source\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.exe
+F:\MES source\source\KZ_MES\Production_Kanban\bin\Debug\Newtonsoft.Json.xml
+F:\MES source\source\KZ_MES\Production_Kanban\obj\Debug\Production_Kanban.csprojAssemblyReference.cache

@@ -1,0 +1,61 @@
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.Properties.Resources.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.AdvancedSample.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.ComboboxSample.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.CustomItemSample.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.CustomListViewSample.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.DataGridViewSample.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.DynamicMenuSample.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.ExtraLargeSample.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.MainForm.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.MultiColumnSample.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.SimplestSample.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenuNS.AutocompleteMenu.resources
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.csproj.GenerateResource.cache
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\bin\Debug\AutocompleteMenu.pdb
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.pdb
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\bin\Debug\AutocompleteMenu.dll.config
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\bin\Debug\AutocompleteMenu.dll
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.dll
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\bin\Debug\GDSJ_Framework.dll
+F:\project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\bin\Debug\AutocompleteMenu.dll.config
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\bin\Debug\AutocompleteMenu.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\bin\Debug\AutocompleteMenu.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\bin\Debug\GDSJ_Framework.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.Properties.Resources.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.AdvancedSample.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.ComboboxSample.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.CustomItemSample.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.CustomListViewSample.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.DataGridViewSample.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.DynamicMenuSample.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.ExtraLargeSample.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.MainForm.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.MultiColumnSample.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.SimplestSample.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenuNS.AutocompleteMenu.resources
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.csproj.GenerateResource.cache
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.csproj.CopyComplete
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.dll
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.pdb
+F:\Server Project\Mes-Plant\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.csprojAssemblyReference.cache
+F:\MES source\source\KZ_MES\AutocompleteMenu\bin\Debug\AutocompleteMenu.pdb
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.csprojAssemblyReference.cache
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.Properties.Resources.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.AdvancedSample.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.ComboboxSample.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.CustomItemSample.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.CustomListViewSample.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.DataGridViewSample.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.DynamicMenuSample.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.ExtraLargeSample.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.MainForm.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.MultiColumnSample.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\Tester.SimplestSample.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenuNS.AutocompleteMenu.resources
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.csproj.GenerateResource.cache
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.csproj.CopyComplete
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.pdb
+F:\MES source\source\KZ_MES\AutocompleteMenu\bin\Debug\AutocompleteMenu.exe.config
+F:\MES source\source\KZ_MES\AutocompleteMenu\bin\Debug\AutocompleteMenu.exe
+F:\MES source\source\KZ_MES\AutocompleteMenu\obj\Debug\AutocompleteMenu.exe
